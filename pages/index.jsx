@@ -95,6 +95,15 @@ const [darkMode, setDarkMode] = useState(false)
 <p>portfolio using</p>
   </div>
 
+  <div className='m-auto py-10 block text-center mx-auto rounded-lg shadow-2xl dark:bg-gray-800 dark:text-gray-400'>
+<Image  src={consulting} width={100} height={100}/>
+<h3 className='my-3 mt-10'>Building project with zero</h3>
+<p className='py-2'>In today's episode, we'll be building out a sleek portfolio using React and </p>
+<span className='text-cyan-600 '>Taking a mobile</span>
+<p className='py-2'>Murad Bulguchev</p>
+<p>portfolio using</p>
+  </div>
+
   
 </div>
   
